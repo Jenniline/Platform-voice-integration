@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "platform-voice-integration",
+  "private_key_id": "5ff57d28e4a4e015feabb0a630e9f52615549d40",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDesD/jlj/JHIJ9\nRkyNcx32+Bg6niKga3RzCia/I3YRtF/SrkDA6MFBchkg6dnmfof2wDlzb0OppK9m\ngpLVlAKqrmUgftN8sjEmkzdfTQXLc9mJ+T7oib5MVBqYKl12EvxJI+xNU6sLi15X\nwwK9maIPLC7EEqBxoL0KKvBoCdpsbUvDMXzu/Hx2S5rLRs2ytsR+xm/dxN+XHnAa\ncey8AyLBk8WPH0kb0nn8BGWO4QjQV1a38gW2IQmnPZU0ZCZGtfh6AgZDfOJtKP+4\nGLwWIuGIW3PbOyhzQZTgAkTViWBR1rP9yQ5N40+ugoYSB+aXzTr7BEOWP+0XyBwJ\njiY9boMDAgMBAAECggEAOGia9nKD29S99S/OinIjoAC+WnLeQJaXm+Bxai94ZAm1\n0C9Vtcf/1C0r0luKV8mrdUTCCMyhbiKKT8Q5n6JrfoLImQ+nUMnui1/1Qc3H7v58\nl2esmMjzjHAtgGgS3qr2fyx7Wicch8MY9dAvLInzNDaz7fTt8XqPCDlSRnhgfOBF\nu+4wf1J+tsfR/E3E4VuAb6JrU+9HPSL7Mb8tvo2uwbpTnGxRnD29PX2Y38eRxVqw\nhMPv0K5VG6l1Krn807ahog223P64ANvZsOyIWg55kNloStrzm0KwzWoBQlukT34y\nI/6aeovDi82xlq95JE/nmOtbEn01OaFmK42urO5eAQKBgQDyPr8UPfX64+p97sYt\nWaCDUwi+zSHbU4FTAr25N2n1lBicJB6T4B13OOpt6Kxuw7fkBU+rgq6QJ7PWAQni\nCG+a2qi38yj12C2oYGClpcz0T6LUAkqLLzOkgJq1IFWMtR2JUAQpp4cvQ3um+ThF\nIflgTKhLAV909HVqSJdLckbHAQKBgQDrVTrPfmojm97Lp1nTLEC98ChLwrTTMFmM\n2dxlRPsrrO6wWnz7unHkaRfNh4LmXikkVoDpQ+YaSl++Tah06nDIaoMRDTUs2MYR\nxIZGO+xUxFdVKR/DjWQYAJ25Xn44sXTXzgCgOcNd//TyTip6IA58P0DgezZeCHs1\nL4SZRtguAwKBgQDqRLofhkhjCJUWkpq+8sVjGyMC+nh6lggkUitOeoOTRlSCc//K\nPFvil31HK1POjqJA9s30bJ4KtQqatEhteoEL/dhahOKg1h5ZjlMI/w31Wyp543lZ\nnx1PQjvbXFi/icv1phdQfT4j/BwR/0RmvxNfCONcHgjFn0AJuAfwo6RFAQKBgH4z\nOZOWPkMUTpk2CJSXUazKAkIGi0QJ1KwVFPz1ziAw39uQ2x9/b55GwW4FsqvpaPTE\nsuLk95u3sLp0GNeB9bN0cw8M3yxKn4Vdt4gokGcw14iiwhbzVu8MPYjv5I5wk7E7\nFtjVwTBCl8/tHRha4om8vgTj7lblA3WVIu2zsTCTAoGBAMnu1J1ou4FdvYjuF/IQ\ndnrCGp1I76WaP9SG2JTqTESrGJcRUVs+Mbz84YH+atV6GBVCAFWcCw3ACgajTz44\nRkjWEhHtuK7X3P6/fieWMU0WKcpM44jtI3Cfj/KeOoa6fcz+iMO5JBF3EaK7BwlD\n7pS7k3m1wEXmL+8BgjwsYRGp\n-----END PRIVATE KEY-----\n",
+  "client_email": "jenniline-ebai@platform-voice-integration.iam.gserviceaccount.com",
+  "client_id": "100612762151136019972",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/jenniline-ebai%40platform-voice-integration.iam.gserviceaccount.com"
+}

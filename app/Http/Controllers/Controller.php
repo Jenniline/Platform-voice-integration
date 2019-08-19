@@ -1,16 +1,16 @@
 <?php
 
-
+/*
 namespace App\HTTP\Controllers;
 
-Illuminate\Http\Request; 
+use Illuminate\Http\Request; 
 
 use App\message;
 
-class Incommingmessage extends controller
+class Incommingmessage extends Controller 
 {
 
-    public function show($id)
+    public function receivemssage($id)
     {
        return Incommingmessage::findOrFail($id);      
     }
@@ -27,4 +27,4 @@ if($request ->has('message','email')){
 }
 if($request ->filled('name')){
     echo 'message'.'filled';
-}
+}*/
