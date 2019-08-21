@@ -1,5 +1,5 @@
 # Platform voice integration project 
-
+     
 This project that is geared at providing an additional source of data collection to the Ushahidi platform.  
 Presently the data sources for the Ushahidi platform are Email,FrontlineSMS,Nexmo,Twilio,Twitter,SMSSync.The voice application has the feature of transcribing speech to text for users viewing and choice of editing. 
 
